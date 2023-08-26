@@ -2,3 +2,6 @@
 
 
 SOme text
+
+function foo(){
+}
