@@ -3,5 +3,5 @@
 
 SOme text
 
-function foo(){
+function foo(int number){
 }
